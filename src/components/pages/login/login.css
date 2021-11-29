@@ -1,0 +1,184 @@
+.s11 {
+    font-size: 30px;
+    color: black;
+    font-weight: 650;
+    font-stretch: extra-condensed;
+    font-family: serif;
+    margin-bottom: 1px;
+    padding-bottom: 15px;
+    line-height: 35px;
+}
+
+.uk-padding {
+    padding-top: 270px;
+}
+
+.t1 {
+    color: gray;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.button2 {
+    background-color: rgb(247, 243, 243);
+    color: rgb(133, 132, 132);
+    width: 100%;
+    height: 20%;
+    padding: 8px;
+    text-transform: initial;
+    font-size: 18px;
+    font-weight: 520;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    margin-bottom: 10px;
+}
+
+.s2 {
+    font-size: 18px;
+    font-weight: 650;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 30px;
+}
+
+.s3 {
+    font-size: 13px;
+}
+
+.button1:active {
+    background-color: rgb(14, 4, 53);
+    color: white;
+    border: 3px solid rgb(14, 4, 53);
+    border-spacing: 3px;
+    background-clip: content-box;
+}
+
+.button1:enabled {
+    border: 2px solid rgb(14, 4, 53);
+}
+
+.button1:disabled {
+    border: 2px solid rgb(14, 4, 53);
+}
+
+.button1:hover {
+    border: 2px solid rgb(14, 4, 53);
+    background-color: rgb(14, 4, 53);
+    color: white;
+}
+
+.button1 {
+    color: black;
+    border: 2px solid rgb(14, 4, 53);
+    background-color: rgb(247, 243, 243);
+    width: 100%;
+    height: 20%;
+    padding: 5px;
+    text-transform: initial;
+    font-weight: 520;
+    font-family: Verdana;
+    border-radius: 4px;
+    background-color: white;
+    text-align: left;
+    font-size: 15px;
+    margin-left: 1px;
+}
+
+.button3 {
+    font-family: Verdana;
+    font-size: 18px;
+    font-weight: 650;
+    color: blue;
+    padding: 5px;
+    border-radius: 4px;
+    background-color: white;
+    text-transform: initial;
+    height: 50px;
+    line-height: 5px;
+    border-color: white;
+}
+
+.button3:hover {
+    border: 1px solid black;
+}
+
+.button4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 650;
+    padding: 3px;
+    width: 100%;
+    height: 20%;
+    padding: 5px;
+    text-align: left;
+    color: black;
+    background-color: white;
+    text-transform: initial;
+    padding-top: 5px;
+}
+
+.s5 {
+    color: blue;
+}
+
+.btn1 {
+    color: black;
+    border: 2px solid rgb(14, 4, 53);
+    background-color: rgb(247, 243, 243);
+    text-transform: initial;
+    font-family: Verdana;
+    border-radius: 4px;
+    background-color: white;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 520;
+    background-clip: content-box;
+}
+
+.btn1:active {
+    background-color: rgb(14, 4, 53);
+    color: white;
+    border: 3px solid rgb(14, 4, 53);
+    border-spacing: 3px;
+}
+
+.t3:active {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.t3 {
+    color: blue;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 2%;
+    font-family: serif;
+}
+
+.t9 {
+    color: black;
+    font-weight: 550;
+    font-size: 14px;
+    margin-top: 2%;
+    font-family: Nokia, Arial, Helvetica, sans-serif;
+}
+
+.btn3 {
+    color: black;
+    width: 100%;
+    height: 20%;
+    padding: 8%;
+    font-size: 15px;
+    font-family: serif;
+    border: black 2px solid;
+}
+
+.icon {
+    height: 30px;
+}
+
+.TextField {
+    width: "100%";
+    background-color: black;
+}
